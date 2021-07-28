@@ -1,0 +1,10 @@
+{
+    "nombre": "Jaime",
+    "edad": 7,
+    "hijos": true,
+    "sueldo": 125.5,
+    "roles": {
+        "admin": "superadmin",
+        "user": "tendero"
+    }
+}
